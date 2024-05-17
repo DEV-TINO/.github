@@ -47,8 +47,8 @@ Happy coding!
 
 | Name          | Photo                                                      | Role                                                        | Email                  | Blog                                             | Projects  |
 | ------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ | --------- |
-| Kim sungjun   | ![John Smith Photo](https://example.com/images/john.jpg)   | Team Leader, Full Stack Developer                           | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino |
-| Lee seeungmin | ![Emily Davis Photo](https://example.com/images/emily.jpg) | Assistant Team Leader, BackEnd Developer, Senior in college | emily@company.com      | [Emily's Blog](https://blog.com/emily)           | Play-Tino |
+| Kim sungjun   | ![John Smith Photo](https://example.com/images/john.jpg)   | Team Leader, Full Stack Developer, FrontEnd Mentor | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino |
+| Lee seeungmin | ![Emily Davis Photo](https://example.com/images/emily.jpg) | Assistant Team Leader, BackEnd Developer, BackEnd Mentor, Senior in college | emily@company.com      | [Emily's Blog](https://blog.com/emily)           | Play-Tino |
 
 ## Frontend Team
 
