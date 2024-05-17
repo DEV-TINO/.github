@@ -18,11 +18,16 @@ We are a university student team working with developers. We hold regular weekly
 
 # Projects
 
-## Project 1: Innovative Web Application
+## Project 1: Play-Tino
 
 **Description:** This project involves developing a cutting-edge web application that integrates advanced features such as real-time data processing, user authentication, and responsive design. The goal is to create a user-friendly platform that meets the needs of our target audience.
 
-**Technologies Used:** React, Node.js, MongoDB, Express
+**Duration:** 
+- Release 1: 24.03.01 ~ 24.05.17
+- Release 2: 24.05.18 ~
+
+**Technologies Used:** Vue.js, Spring boot
+**Design Tools:** Figma
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://example.com/project1-image1.jpg" alt="Project 1 Image 1" style="width: 32%; margin: 1%;">
@@ -30,50 +35,28 @@ We are a university student team working with developers. We hold regular weekly
   <img src="https://example.com/project1-image3.jpg" alt="Project 1 Image 3" style="width: 32%; margin: 1%;">
 </div>
 
-## Project 2: AI-Powered Chatbot
-
-**Description:** Our team is building an AI-powered chatbot designed to assist users with common inquiries and provide personalized responses. The chatbot leverages natural language processing (NLP) techniques to understand and respond to user queries effectively.
-
-**Technologies Used:** Python, TensorFlow, Natural Language Toolkit (NLTK)
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://example.com/project2-image1.jpg" alt="Project 2 Image 1" style="width: 32%; margin: 1%;">
-  <img src="https://example.com/project2-image2.jpg" alt="Project 2 Image 2" style="width: 32%; margin: 1%;">
-  <img src="https://example.com/project2-image3.jpg" alt="Project 2 Image 3" style="width: 32%; margin: 1%;">
-</div>
-
-## Project 3: E-commerce Platform
-
-**Description:** This project focuses on creating a robust e-commerce platform that allows users to browse products, make purchases, and track orders. The platform includes features such as payment gateway integration, inventory management, and customer reviews.
-
-**Technologies Used:** HTML, CSS, JavaScript, Django, PostgreSQL
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://example.com/project3-image1.jpg" alt="Project 3 Image 1" style="width: 32%; margin: 1%;">
-  <img src="https://example.com/project3-image2.jpg" alt="Project 3 Image 2" style="width: 32%; margin: 1%;">
-  <img src="https://example.com/project3-image3.jpg" alt="Project 3 Image 3" style="width: 32%; margin: 1%;">
-</div>
-
 # Organizational Chart
 
 ## Overall Team
 
-| Name         | Photo                                              | Role                                  | Email                   | Blog                            |
-|--------------|----------------------------------------------------|---------------------------------------|-------------------------|---------------------------------|
-| John Smith   | ![John Smith Photo](https://example.com/images/john.jpg) | Team Leader, Industry Professional     | john@company.com        | [John's Blog](https://blog.com/john) |
-| Emily Davis  | ![Emily Davis Photo](https://example.com/images/emily.jpg) | Assistant Team Leader, Software Engineer | emily@company.com       | [Emily's Blog](https://blog.com/emily) |
+| Name          | Photo                                                      | Role                                                        | Email                  | Blog                                             |
+| ------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ |
+| Kim sungjun   | ![John Smith Photo](https://example.com/images/john.jpg)   | Team Leader, Full Stack Developer                           | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) |
+| Lee seeungmin | ![Emily Davis Photo](https://example.com/images/emily.jpg) | Assistant Team Leader, BackEnd Developer, Senior in college | emily@company.com      | [Emily's Blog](https://blog.com/emily)           |
 
 ## Frontend Team
 
-| Name       | Photo                                              | Role                                   | Email                   | Blog                            |
-|------------|----------------------------------------------------|----------------------------------------|-------------------------|---------------------------------|
-| Jane Doe   | ![Jane Doe Photo](https://example.com/images/jane.jpg)  | Frontend Developer, React Specialist     | jane@company.com        | [Jane's Blog](https://blog.com/jane) |
-| Bob White  | ![Bob White Photo](https://example.com/images/bob.jpg)    | Frontend Developer, UX/UI Designer       | bob@company.com         | [Bob's Blog](https://blog.com/bob)    |
+| Name        | Photo                                                  | Role                                  | Email            | Blog                                 |
+| ----------- | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ |
+| Kim minji   | ![Jane Doe Photo](https://example.com/images/jane.jpg) | Frontend Developer, Junior in college | jane@company.com | [Jane's Blog](https://blog.com/jane) |
+| Im jeongyun | ![Bob White Photo](https://example.com/images/bob.jpg) | Frontend Developer, Junior in college | bob@company.com  | [Bob's Blog](https://blog.com/bob)   |
+| Kim sojin   |                                                        | Frontend Developer, Junior in college |                  |                                      |
 
 ## Backend Team
 
-| Name         | Photo                                              | Role                                   | Email                   | Blog                            |
-|--------------|----------------------------------------------------|----------------------------------------|-------------------------|---------------------------------|
-| Alice Brown  | ![Alice Brown Photo](https://example.com/images/alice.jpg) | Backend Developer, Python and JS Expert | alice@company.com       | [Alice's Blog](https://blog.com/alice) |
-| Charlie Green| ![Charlie Green Photo](https://example.com/images/charlie.jpg) | Backend Developer, Database Specialist | charlie@company.com     | [Charlie's Blog](https://blog.com/charlie) |
+| Name        | Photo                                                          | Role                                 | Email               | Blog                                       |
+| ----------- | -------------------------------------------------------------- | ------------------------------------ | ------------------- | ------------------------------------------ |
+| Yu suhyeon  | ![Alice Brown Photo](https://example.com/images/alice.jpg)     | Backend Developer, Junior in college | alice@company.com   | [Alice's Blog](https://blog.com/alice)     |
+| Kim yerin   | ![Charlie Green Photo](https://example.com/images/charlie.jpg) | Backend Developer, Junior in college | charlie@company.com | [Charlie's Blog](https://blog.com/charlie) |
+| Kim taegeon |                                                                | Backend Developer, Junior in college |                     |                                            |
 
