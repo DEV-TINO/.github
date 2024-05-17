@@ -14,7 +14,11 @@
 
 # Project Introduction
 
-We are a university student team working with developers. We hold regular weekly meetings to plan various topics and learn new technologies.
+We are a group of passionate students from TUK in Korea, deeply interested in development. Our small team is eager to expand and explore more challenging projects together!
+
+If you're interested in joining our team or learning more about our work, please don't hesitate to contact us!
+
+Happy coding!
 
 # Projects
 
