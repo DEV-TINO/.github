@@ -14,11 +14,13 @@
 
 # Project Introduction
 
+
 We are a group of passionate students from TUK in Korea, deeply interested in development. Our small team is eager to expand and explore more challenging projects together!
 
 If you're interested in joining our team or learning more about our work, please don't hesitate to contact us!
 
 Happy coding!
+
 
 # Projects
 
@@ -43,24 +45,24 @@ Happy coding!
 
 ## Overall Team
 
-| Name          | Photo                                                      | Role                                                        | Email                  | Blog                                             |
-| ------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ |
-| Kim sungjun   | ![John Smith Photo](https://example.com/images/john.jpg)   | Team Leader, Full Stack Developer                           | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) |
-| Lee seeungmin | ![Emily Davis Photo](https://example.com/images/emily.jpg) | Assistant Team Leader, BackEnd Developer, Senior in college | emily@company.com      | [Emily's Blog](https://blog.com/emily)           |
+| Name          | Photo                                                      | Role                                                        | Email                  | Blog                                             | Projects  |
+| ------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ | --------- |
+| Kim sungjun   | ![John Smith Photo](https://example.com/images/john.jpg)   | Team Leader, Full Stack Developer                           | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino |
+| Lee seeungmin | ![Emily Davis Photo](https://example.com/images/emily.jpg) | Assistant Team Leader, BackEnd Developer, Senior in college | emily@company.com      | [Emily's Blog](https://blog.com/emily)           | Play-Tino |
 
 ## Frontend Team
 
-| Name        | Photo                                                  | Role                                  | Email            | Blog                                 |
-| ----------- | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ |
-| Kim minji   | ![Jane Doe Photo](https://example.com/images/jane.jpg) | Frontend Developer, Junior in college | jane@company.com | [Jane's Blog](https://blog.com/jane) |
-| Im jeongyun | ![Bob White Photo](https://example.com/images/bob.jpg) | Frontend Developer, Junior in college | bob@company.com  | [Bob's Blog](https://blog.com/bob)   |
-| Kim sojin   |                                                        | Frontend Developer, Junior in college |                  |                                      |
+| Name        | Photo                                                  | Role                                  | Email            | Blog                                 | Projects               |
+| ----------- | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ | ---------------------- |
+| Kim minji   | ![Jane Doe Photo](https://example.com/images/jane.jpg) | Frontend Developer, Junior in college | jane@company.com | [Jane's Blog](https://blog.com/jane) | Play-Tino, Mango-Diary |
+| Im jeongyun | ![Bob White Photo](https://example.com/images/bob.jpg) | Frontend Developer, Junior in college | bob@company.com  | [Bob's Blog](https://blog.com/bob)   | Play-Tino, Mango-Diary |
+| Kim sojin   |                                                        | Frontend Developer, Junior in college |                  |                                      | Daily-Lucky            |
 
 ## Backend Team
 
-| Name        | Photo                                                          | Role                                 | Email               | Blog                                       |
-| ----------- | -------------------------------------------------------------- | ------------------------------------ | ------------------- | ------------------------------------------ |
-| Yu suhyeon  | ![Alice Brown Photo](https://example.com/images/alice.jpg)     | Backend Developer, Junior in college | alice@company.com   | [Alice's Blog](https://blog.com/alice)     |
-| Kim yerin   | ![Charlie Green Photo](https://example.com/images/charlie.jpg) | Backend Developer, Junior in college | charlie@company.com | [Charlie's Blog](https://blog.com/charlie) |
-| Kim taegeon |                                                                | Backend Developer, Junior in college |                     |                                            |
+| Name        | Photo                                                          | Role                                 | Email               | Blog                                       | Projects  |
+| ----------- | -------------------------------------------------------------- | ------------------------------------ | ------------------- | ------------------------------------------ | --------- |
+| Yu suhyeon  | ![Alice Brown Photo](https://example.com/images/alice.jpg)     | Backend Developer, Junior in college | alice@company.com   | [Alice's Blog](https://blog.com/alice)     | Play-Tino |
+| Kim yerin   | ![Charlie Green Photo](https://example.com/images/charlie.jpg) | Backend Developer, Junior in college | charlie@company.com | [Charlie's Blog](https://blog.com/charlie) | Play-Tino |
+| Kim taegeon |                                                                | Backend Developer, Junior in college |                     |                                            | Play-Tino |
 
