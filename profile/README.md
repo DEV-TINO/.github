@@ -48,7 +48,7 @@ Happy coding!
 | Name          | Photo                                                      | Role                                                        | Email                  | Blog                                             | Projects  |
 | ------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ | --------- |
 | Kim sungjun   | ![John Smith Photo](https://example.com/images/john.jpg)   | Team Leader, Full Stack Developer, FrontEnd Mentor | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino |
-| Lee seeungmin | <img src="https://github.com/DEV-TINO/.github/assets/90247223/ae19927c-5ec5-406b-87f8-c18872ab90ce" alt="Example Image" width="100" /> | Assistant Team Leader, BackEnd Developer, BackEnd Mentor, Senior in college | lsmin476@gmail.com | [Seeungmin's Blog](https://seeungmin.github.io/)           | Play-Tino |
+| Lee seungmin | <img src="https://github.com/DEV-TINO/.github/assets/90247223/ae19927c-5ec5-406b-87f8-c18872ab90ce" alt="Example Image" width="100" /> | Assistant Team Leader, BackEnd Developer, BackEnd Mentor, Senior in college | lsmin476@gmail.com | [Seungmin's Blog](https://seeungmin.github.io/)           | Play-Tino |
 
 ## Frontend Team
 
