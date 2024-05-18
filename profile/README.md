@@ -26,7 +26,7 @@ Happy coding!
 
 ## Project 1: [Play-Tino](https://play-tino.com/)
 
-**Description:** This project involves developing a cutting-edge web application that integrates advanced features such as real-time data processing, user authentication, and responsive design. The goal is to create a user-friendly platform that meets the needs of our target audience.
+**Description:** This interactive web application is designed to provide users with fun and engaging activities through three main features: the Cat World Cup, the Time Matching Game, and the Nonsense/General Knowledge Quiz. Whether you're a cat lover, a reflex enthusiast, or a trivia buff, there's something here for everyone.
 
 **Duration:** 
 - Release 1: 24.03.01 ~ 24.05.17
