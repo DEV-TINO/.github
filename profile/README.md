@@ -33,7 +33,9 @@ Happy coding!
 - Release 2: 24.05.18 ~
 
 **Technologies Used:** Vue.js, Spring boot
+
 **Design Tools:** Figma
+
 **Project Link:** [Play-Tino](https://github.com/DEV-TINO/PLAY-TINO)
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
