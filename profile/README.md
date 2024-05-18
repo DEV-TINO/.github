@@ -35,10 +35,10 @@ Happy coding!
 **Technologies Used:** Vue.js, Spring boot
 **Design Tools:** Figma
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://example.com/project1-image1.jpg" alt="Project 1 Image 1" style="width: 32%; margin: 1%;">
-  <img src="https://example.com/project1-image2.jpg" alt="Project 1 Image 2" style="width: 32%; margin: 1%;">
-  <img src="https://example.com/project1-image3.jpg" alt="Project 1 Image 3" style="width: 32%; margin: 1%;">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="https://github.com/DEV-TINO/.github/assets/90247223/66d0088d-b267-4232-ade4-d69dd1ffe75c" alt="Project 1 Image 1" style="width: 32%; margin: 1%;">
+  <img src="https://github.com/DEV-TINO/.github/assets/90247223/9a0ba379-1543-427a-853c-17d72b4970fb" alt="Project 1 Image 2" style="width: 32%; margin: 1%;">
+  <img src="https://github.com/DEV-TINO/.github/assets/90247223/6b76f61f-7b2b-4cdd-8a7a-f2d992d57bb6" alt="Project 1 Image 3" style="width: 32%; margin: 1%;">
 </div>
 
 # Organizational Chart
