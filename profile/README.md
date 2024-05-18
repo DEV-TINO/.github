@@ -24,7 +24,7 @@ Happy coding!
 
 # Projects
 
-## Project 1: Play-Tino
+## Project 1: [Play-Tino](https://play-tino.com/)
 
 **Description:** This project involves developing a cutting-edge web application that integrates advanced features such as real-time data processing, user authentication, and responsive design. The goal is to create a user-friendly platform that meets the needs of our target audience.
 
@@ -34,6 +34,7 @@ Happy coding!
 
 **Technologies Used:** Vue.js, Spring boot
 **Design Tools:** Figma
+**Project Link:** [Play-Tino](https://github.com/DEV-TINO/PLAY-TINO)
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://github.com/DEV-TINO/.github/assets/90247223/66d0088d-b267-4232-ade4-d69dd1ffe75c" alt="Project 1 Image 1" style="width: 32%; margin: 1%;">
