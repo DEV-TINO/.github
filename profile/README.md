@@ -60,7 +60,7 @@ Happy coding!
 | Name        | Photo                                                  | Role                                  | Email            | Blog                                 | Projects               |
 | ----------- | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ | ---------------------- |
 | Kim minji   | <img src="https://github.com/DEV-TINO/.github/assets/90247223/10cec61d-5ffc-446a-82d7-438977de5e02" alt="minji image" width="100" /> | Frontend Developer, Junior in college | alswlk0306@gmail.com | [Minji's Blog](https://alswlfjddl.tistory.com/) | Play-Tino, Mango-Diary |
-| Lim jeongyun | <img src="https://github.com/DEV-TINO/.github/assets/90247223/bb945917-d472-47fb-8992-3dc83c188c9b" alt="jeongyun image" width="100" /> | Frontend Developer, Junior in college | haryo_@naver.com  | [Jeongyun's Blog](hmyang.tistory.com)   | Play-Tino, Mango-Diary |
+| Lim jeongyun | <img src="https://github.com/DEV-TINO/.github/assets/90247223/bb945917-d472-47fb-8992-3dc83c188c9b" alt="jeongyun image" width="100" /> | Frontend Developer, Junior in college | haryo_@naver.com  | [Jeongyun's Blog](https://hmyang.tistory.com)   | Play-Tino, Mango-Diary |
 | Kim sojin   |                                                        | Frontend Developer, Junior in college |                  |                                      | Daily-Lucky            |
 
 ## Backend Team
