@@ -12,7 +12,7 @@
 -->
 
 
-# Project Introduction
+# Team Introduction
 
 
 We are a group of passionate students from TUK in Korea, deeply interested in development. Our small team is eager to expand and explore more challenging projects together!
