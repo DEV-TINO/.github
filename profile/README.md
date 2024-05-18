@@ -55,7 +55,7 @@ Happy coding!
 | Name        | Photo                                                  | Role                                  | Email            | Blog                                 | Projects               |
 | ----------- | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ | ---------------------- |
 | Kim minji   | ![Jane Doe Photo](https://example.com/images/jane.jpg) | Frontend Developer, Junior in college | jane@company.com | [Jane's Blog](https://blog.com/jane) | Play-Tino, Mango-Diary |
-| Im jeongyun | ![Bob White Photo](https://example.com/images/bob.jpg) | Frontend Developer, Junior in college | bob@company.com  | [Bob's Blog](https://blog.com/bob)   | Play-Tino, Mango-Diary |
+| Lim jeongyun | ![Bob White Photo](https://example.com/images/bob.jpg) | Frontend Developer, Junior in college | bob@company.com  | [Bob's Blog](https://blog.com/bob)   | Play-Tino, Mango-Diary |
 | Kim sojin   |                                                        | Frontend Developer, Junior in college |                  |                                      | Daily-Lucky            |
 
 ## Backend Team
