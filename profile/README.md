@@ -48,21 +48,22 @@ Happy coding!
 | Name          | Photo                                                      | Role                                                        | Email                  | Blog                                             | Projects  |
 | ------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ | --------- |
 | Kim sungjun   | ![John Smith Photo](https://example.com/images/john.jpg)   | Team Leader, Full Stack Developer, FrontEnd Mentor | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino |
-| Lee seungmin | <img src="https://github.com/DEV-TINO/.github/assets/90247223/ae19927c-5ec5-406b-87f8-c18872ab90ce" alt="Example Image" width="100" /> | Assistant Team Leader, BackEnd Developer, BackEnd Mentor, Senior in college | lsmin476@gmail.com | [Seungmin's Blog](https://seeungmin.github.io/)           | Play-Tino |
+| Lee seungmin | <img src="https://github.com/DEV-TINO/.github/assets/90247223/ae19927c-5ec5-406b-87f8-c18872ab90ce" alt="seungmin image" width="100" /> | Assistant Team Leader, BackEnd Developer, BackEnd Mentor, Senior in college | lsmin476@gmail.com | [Seungmin's Blog](https://seeungmin.github.io/)           | Play-Tino |
 
 ## Frontend Team
 
+
 | Name        | Photo                                                  | Role                                  | Email            | Blog                                 | Projects               |
 | ----------- | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ | ---------------------- |
-| Kim minji   | ![Jane Doe Photo](https://example.com/images/jane.jpg) | Frontend Developer, Junior in college | jane@company.com | [Jane's Blog](https://blog.com/jane) | Play-Tino, Mango-Diary |
-| Lim jeongyun | ![Bob White Photo](https://example.com/images/bob.jpg) | Frontend Developer, Junior in college | bob@company.com  | [Bob's Blog](https://blog.com/bob)   | Play-Tino, Mango-Diary |
+| Kim minji   | <img src="https://github.com/DEV-TINO/.github/assets/90247223/10cec61d-5ffc-446a-82d7-438977de5e02" alt="minji image" width="100" /> | Frontend Developer, Junior in college | alswlk0306@gmail.com | [Minji's Blog](https://alswlfjddl.tistory.com/) | Play-Tino, Mango-Diary |
+| Lim jeongyun | <img src="https://github.com/DEV-TINO/.github/assets/90247223/bb945917-d472-47fb-8992-3dc83c188c9b" alt="jeongyun image" width="100" /> | Frontend Developer, Junior in college | haryo_@naver.com  | [Jeongyun's Blog](hmyang.tistory.com)   | Play-Tino, Mango-Diary |
 | Kim sojin   |                                                        | Frontend Developer, Junior in college |                  |                                      | Daily-Lucky            |
 
 ## Backend Team
 
 | Name        | Photo                                                          | Role                                 | Email               | Blog                                       | Projects  |
 | ----------- | -------------------------------------------------------------- | ------------------------------------ | ------------------- | ------------------------------------------ | --------- |
-| Yu suhyeon  | ![Alice Brown Photo](https://example.com/images/alice.jpg)     | Backend Developer, Junior in college | alice@company.com   | [Alice's Blog](https://blog.com/alice)     | Play-Tino |
-| Kim yerin   | ![Charlie Green Photo](https://example.com/images/charlie.jpg) | Backend Developer, Junior in college | charlie@company.com | [Charlie's Blog](https://blog.com/charlie) | Play-Tino |
+| Yu suhyeon  | ![Alice Brown Photo](https://example.com/images/alice.jpg)     | Backend Developer, Junior in college | dbtngus20@naver.com   | [Suhyeon's Blog](https://blog.naver.com/dbtngus20)     | Play-Tino |
+| Kim yerin   | ![Charlie Green Photo](https://example.com/images/charlie.jpg) | Backend Developer, Junior in college | yeah_0911@tukorea.ac.kr | [Yerin's Blog](https://velog.io/@niireymik/posts) | Play-Tino |
 | Kim taegeon |                                                                | Backend Developer, Junior in college |                     |                                            | Play-Tino |
 
