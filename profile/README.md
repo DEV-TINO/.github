@@ -67,7 +67,7 @@ Happy coding!
 
 | Name        | Photo                                                          | Role                                 | Email               | Blog                                       | Projects  |
 | ----------- | -------------------------------------------------------------- | ------------------------------------ | ------------------- | ------------------------------------------ | --------- |
-| Yu suhyeon  | ![Alice Brown Photo](https://example.com/images/alice.jpg)     | Backend Developer, Junior in college | dbtngus20@naver.com   | [Suhyeon's Blog](https://blog.naver.com/dbtngus20)     | Play-Tino |
-| Kim yerin   | ![Charlie Green Photo](https://example.com/images/charlie.jpg) | Backend Developer, Junior in college | yeah_0911@tukorea.ac.kr | [Yerin's Blog](https://velog.io/@niireymik/posts) | Play-Tino |
+| Yoo suhyeon  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/a6130f79-8722-48e8-9a44-ca17016e1788" alt="suhyeon image" width="100" />     | Backend Developer, Junior in college | dbtngus20@naver.com   | [Suhyeon's Blog](https://blog.naver.com/dbtngus20)     | Play-Tino |
+| Kim yerin   | <img src="https://github.com/DEV-TINO/.github/assets/90247223/c3f3d02e-8306-48aa-9f75-74ebf7f61e89" style="transform: rotate(180deg);" alt="yerin image" width="100" />  | Backend Developer, Junior in college | yeah_0911@tukorea.ac.kr | [Yerin's Blog](https://velog.io/@niireymik/posts) | Play-Tino |
 | Kim taegeon |                                                                | Backend Developer, Junior in college |                     |                                            | Play-Tino |
 
