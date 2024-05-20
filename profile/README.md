@@ -48,7 +48,6 @@ Happy coding!
 
 ## Overall Team
 
-
 | Name          | Photo                                                      | Role                                                        | Email                  | Blog                                             | Projects  |
 | ------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ | --------- |
 | Kim sungjun   | <img src="https://github.com/DEV-TINO/.github/assets/90247223/003ec78e-d60b-4bc8-885b-a0ad4019b0ee" alt="sungjun image" width="100" />   | Team Leader, Full Stack Developer, FrontEnd Mentor | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino |
@@ -61,7 +60,7 @@ Happy coding!
 | ----------- | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ | ---------------------- |
 | Kim minji   | <img src="https://github.com/DEV-TINO/.github/assets/90247223/10cec61d-5ffc-446a-82d7-438977de5e02" alt="minji image" width="100" /> | Frontend Developer, Junior in college | alswlk0306@gmail.com | [Minji's Blog](https://alswlfjddl.tistory.com/) | Play-Tino, Mango-Diary |
 | Lim jeongyun | <img src="https://github.com/DEV-TINO/.github/assets/90247223/bb945917-d472-47fb-8992-3dc83c188c9b" alt="jeongyun image" width="100" /> | Frontend Developer, Junior in college | haryo_@naver.com  | [Jeongyun's Blog](https://hmyang.tistory.com)   | Play-Tino, Mango-Diary |
-| Kim sojin   |                                                        | Frontend Developer, Junior in college |                  |                                      | Daily-Lucky            |
+| Kim sojin   | <img src="https://github.com/DEV-TINO/.github/assets/90247223/b46a9e34-e404-4df2-b35b-62924246a8c1" alt="sojin image" width="100" /> | Frontend Developer, Junior in college |                  | [Sojin's Blog](https://lucky0917.tistory.com/) | Daily-Lucky            |
 
 ## Backend Team
 
