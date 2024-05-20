@@ -49,24 +49,24 @@ Happy coding!
 ## Overall Team
 
 | Name          | Photo                                                      | Role                                                        | Email                  | Blog                                             | Projects  |
-| ------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ | --------- |
-| Kim sungjun  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/003ec78e-d60b-4bc8-885b-a0ad4019b0ee" alt="sungjun image" width="100" />   | Team Leader, Full Stack Developer, FrontEnd Mentor | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino |
-| Lee seungmin | <img src="https://github.com/DEV-TINO/.github/assets/90247223/ae19927c-5ec5-406b-87f8-c18872ab90ce" alt="seungmin image" width="100" /> | Assistant Team Leader, BackEnd Developer, BackEnd Mentor, Senior in college | lsmin476@gmail.com | [Seungmin's Blog](https://seeungmin.github.io/)           | Play-Tino |
+| :-----------: | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ | --------- |
+| Kim sungjun <br/> [@kim-song-jun](https://github.com/kim-song-jun)  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/003ec78e-d60b-4bc8-885b-a0ad4019b0ee" alt="sungjun image" width="100" />   | Team Leader, Full Stack Developer, FrontEnd Mentor | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino |
+| Lee seungmin <br/> [@seeungmin](https://github.com/seeungmin) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/ae19927c-5ec5-406b-87f8-c18872ab90ce" alt="seungmin image" width="100" /> | Assistant Team Leader, BackEnd Developer, BackEnd Mentor, Senior in college | lsmin476@gmail.com | [Seungmin's Blog](https://seeungmin.github.io/)           | Play-Tino |
 
 ## Frontend Team
 
 
 | Name        | Photo                                                  | Role                                  | Email            | Blog                                 | Projects               |
-| ----------- | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ | ---------------------- |
-| Kim minji   | <img src="https://github.com/DEV-TINO/.github/assets/90247223/10cec61d-5ffc-446a-82d7-438977de5e02" alt="minji image" width="100" /> | Frontend Developer, Junior in college | alswlk0306@gmail.com | [Minji's Blog](https://alswlfjddl.tistory.com/) | Play-Tino, Mango-Diary |
-| Lim jeongyun | <img src="https://github.com/DEV-TINO/.github/assets/90247223/bb945917-d472-47fb-8992-3dc83c188c9b" alt="jeongyun image" width="100" /> | Frontend Developer, Junior in college | haryo_@naver.com  | [Jeongyun's Blog](https://hmyang.tistory.com)   | Play-Tino, Mango-Diary |
-| Kim sojin   | <img src="https://github.com/DEV-TINO/.github/assets/90247223/b46a9e34-e404-4df2-b35b-62924246a8c1" alt="sojin image" width="100" /> | Frontend Developer, Junior in college |                  | [Sojin's Blog](https://lucky0917.tistory.com/) | Daily-Lucky            |
+| :-----------: | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ | ---------------------- |
+| Kim minji <br/> [@min-minnn](https://github.com/min-minnn)  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/10cec61d-5ffc-446a-82d7-438977de5e02" alt="minji image" width="100" /> | Frontend Developer, Junior in college | alswlk0306@gmail.com | [Minji's Blog](https://alswlfjddl.tistory.com/) | Play-Tino, Mango-Diary |
+| Lim jeongyun <br/> [@jzongyun](https://github.com/jzongyun) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/bb945917-d472-47fb-8992-3dc83c188c9b" alt="jeongyun image" width="100" /> | Frontend Developer, Junior in college | haryo_@naver.com  | [Jeongyun's Blog](https://hmyang.tistory.com)   | Play-Tino, Mango-Diary |
+| Kim sojin <br/> [@GitSojin](https://github.com/GitSojin)  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/b46a9e34-e404-4df2-b35b-62924246a8c1" alt="sojin image" width="100" /> | Frontend Developer, Junior in college | sojin121495@gmail.com | [Sojin's Blog](https://lucky0917.tistory.com/) | Daily-Lucky            |
 
 ## Backend Team
 
 | Name        | Photo                                                          | Role                                 | Email               | Blog                                       | Projects  |
-| ----------- | -------------------------------------------------------------- | ------------------------------------ | ------------------- | ------------------------------------------ | --------- |
-| Yoo suhyeon  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/a6130f79-8722-48e8-9a44-ca17016e1788" alt="suhyeon image" width="100" />     | Backend Developer, Junior in college | dbtngus20@naver.com   | [Suhyeon's Blog](https://blog.naver.com/dbtngus20)     | Play-Tino |
-| Kim yerin   | <img src="https://github.com/DEV-TINO/.github/assets/90247223/c3f3d02e-8306-48aa-9f75-74ebf7f61e89" style="transform: rotate(180deg);" alt="yerin image" width="100" />  | Backend Developer, Junior in college | yeah_0911@naver.com | [Yerin's Blog](https://velog.io/@niireymik/posts) | Play-Tino |
-| Kim taegeon |                                                                | Backend Developer, Junior in college |                     |                                            | Play-Tino |
+| :---------: | -------------------------------------------------------------- | ------------------------------------ | ------------------- | ------------------------------------------ | --------- |
+| Yoo suhyeon <br/> [@6suhyeon](https://github.com/6suhyeon) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/a6130f79-8722-48e8-9a44-ca17016e1788" alt="suhyeon image" width="100" />     | Backend Developer, Junior in college | dbtngus20@naver.com   | [Suhyeon's Blog](https://blog.naver.com/dbtngus20)     | Play-Tino |
+| Kim yerin <br/> [@niireymik](https://github.com/niireymik) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/c3f3d02e-8306-48aa-9f75-74ebf7f61e89" style="transform: rotate(180deg);" alt="yerin image" width="100" />  | Backend Developer, Junior in college | yeah_0911@naver.com | [Yerin's Blog](https://velog.io/@niireymik/posts) | Play-Tino |
+| Kim taegeon <br/> [@taegeon3](https://github.com/taegeon3) |                                                                | Backend Developer, Junior in college |                     |                                            | Play-Tino |
 
