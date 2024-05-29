@@ -24,7 +24,7 @@ Happy coding!
 
 # Projects
 
-## Project 1: [Play-Tino](https://play-tino.com/)[Play-Tino](https://github.com/DEV-TINO/PLAY-TINO)
+## Project 1: [Play-Tino](https://github.com/DEV-TINO/PLAY-TINO)
 
 **Description:** This interactive web application is designed to provide users with fun and engaging activities through three main features: the Cat World Cup, the Time Matching Game, and the Nonsense/General Knowledge Quiz. Whether you're a cat lover, a reflex enthusiast, or a trivia buff, there's something here for everyone.
 
