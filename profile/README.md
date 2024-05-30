@@ -50,7 +50,7 @@ Happy coding!
 
 | Name          | Photo                                                      | Role                                                        | Email                  | Blog                                             | Projects  |
 | :-----------: | ---------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- | ------------------------------------------------ | --------- |
-| Kim sungjun <br/> [@kim-song-jun](https://github.com/kim-song-jun)  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/003ec78e-d60b-4bc8-885b-a0ad4019b0ee" alt="sungjun image" width="100" />   | Team Leader, <br> Full Stack Developer, <br> FrontEnd Mentor | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino, <br> Mango-Dariy, <br> Daily-Lucky |
+| Kim sungjun <br/> [@kim-song-jun](https://github.com/kim-song-jun)  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/003ec78e-d60b-4bc8-885b-a0ad4019b0ee" alt="sungjun image" width="100" />   | Team Leader, <br> Full Stack Developer, <br> FrontEnd Mentor, <br> Bachelor of Computer Engineering | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino, <br> Mango-Dariy, <br> Daily-Lucky |
 | Lee seungmin <br/> [@seeungmin](https://github.com/seeungmin) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/ae19927c-5ec5-406b-87f8-c18872ab90ce" alt="seungmin image" width="100" /> | Assistant Team Leader, <br> BackEnd Developer, <br> BackEnd Mentor, <br> Senior in college | lsmin476@gmail.com | [Seungmin's Blog](https://seeungmin.github.io/)           | Play-Tino |
 
 ## Frontend Team
