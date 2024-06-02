@@ -65,9 +65,10 @@ Happy coding!
 
 ## Backend Team
 
+
 | Name        | Photo                                                          | Role                                 | Email               | Blog                                       | Projects  |
 | :---------: | -------------------------------------------------------------- | ------------------------------------ | ------------------- | ------------------------------------------ | --------- |
-| Kim kyungmin <br/> [@KyungMin_Kim](https://github.com/rvbear) | <img src="" alt="kyungmin image" width="100" />     | Backend Developer, <br> Junior in college | dbtngus20@naver.com   | [Kyungmin's Blog](https://velog.io/@rvbear/posts)     | Play-Tino |
+| Kim kyungmin <br/> [@KyungMin_Kim](https://github.com/rvbear) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/80c12615-f72e-4b65-8cd8-b6514a9b2053" alt="kyungmin image" width="100" />     | Backend Developer, <br> Senior in college | rvbear2000@gmail.com   | [Kyungmin's Blog](https://velog.io/@rvbear/posts)     |  |
 | Yoo suhyeon <br/> [@6suhyeon](https://github.com/6suhyeon) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/a6130f79-8722-48e8-9a44-ca17016e1788" alt="suhyeon image" width="100" />     | Backend Developer, <br> Junior in college | dbtngus20@naver.com   | [Suhyeon's Blog](https://blog.naver.com/dbtngus20)     | Play-Tino |
 | Kim yerin <br/> [@niireymik](https://github.com/niireymik) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/c3f3d02e-8306-48aa-9f75-74ebf7f61e89" style="transform: rotate(180deg);" alt="yerin image" width="100" />  | Backend Developer, <br> Junior in college | niireymik@gmail.com | [Yerin's Blog](https://velog.io/@niireymik/posts) | Play-Tino |
 | Kim taegeon <br/> [@taegeon3](https://github.com/taegeon3) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/d5d26d1c-987a-466f-9320-798a0470557e" alt="suhyeon image" width="100" /> | Backend Developer, <br> Junior in college | kimtgun7193@gmail.com | [Teagon's Blog](https://idyidy.tistory.com/) | Play-Tino |
