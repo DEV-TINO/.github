@@ -30,7 +30,7 @@ Happy coding!
 
 **Duration:** 
 - Release 1: 24.03.01 ~ 24.05.17
-- Release 2: 24.05.18 ~
+- Release 2: 24.05.18 ~ 24.06.08
 
 **Technologies Used:** Vue.js, Spring boot
 
