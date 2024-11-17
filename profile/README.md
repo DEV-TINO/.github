@@ -78,7 +78,7 @@ Happy coding!
 
 **Demo Web Site:** [Festino](https://festino.dev-tino.com/), [Festino-Admin](https://admin.festino.dev-tino.com/)
 
-**Instargram** [Festino Offical Instargram](https://www.instagram.com/tuk_dev_tino/)
+**Instargram:** [Festino Offical Instargram](https://www.instagram.com/tuk_dev_tino/)
 
 # Organizational Chart
 
