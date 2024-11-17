@@ -44,6 +44,39 @@ Happy coding!
   <img src="https://github.com/DEV-TINO/.github/assets/90247223/6b76f61f-7b2b-4cdd-8a7a-f2d992d57bb6" alt="Project 1 Image 3" style="width: 32%; margin: 1%;">
 </div>
 
+## Project 2: [Festino](https://github.com/DEV-TINO/Festino)
+
+**Description** The Festino Festival Admin Panel is an advanced management system designed for organizing and managing large-scale festivals. It focuses on providing easy control over booth reservations, table management, order tracking, and sales statistics for administrators.
+
+**Key Features**:
+ - Booth Management:
+    - Register and modify booth details including name, operating hours, description, and images.
+    - Add and manage booth menus with pricing, descriptions, and availability toggles.
+ - Reservation Management:
+    - Monitor real-time reservations and customer queues.
+    - Delete or restore reservations based on event requirements.
+ - Order Management:
+    - Track orders through their lifecycle: Payment Pending → Cooking → Complete → Canceled.
+    - View detailed order breakdowns with table numbers, menu items, and prices.
+ - Sales Statistics:
+    - Analyze daily sales data with interactive graphs and date filters.
+    - Review total sales per menu and overall earnings.
+ - Admin Controls:
+    - Toggle reservation, coupon, and order functionalities on or off.
+    - Handle critical data restoration through the admin panel.
+
+**Duration**
+ - Development: 24.06.02 ~ 24.09.15
+
+**Technologies Used**
+ - Frontend: Vue.js, TailwindCSS
+ - Backend: Spring Boot
+ - Database: MariaDB
+ - DevOps: Docker, AWS EC2, AWS S3
+
+**Design Tools:** Figma
+**Demo Web Site:** [Festino](https://festino.dev-tino.com/), [Festino-Admin](https://admin.festino.dev-tino.com/)
+
 # Organizational Chart
 
 ## Overall Team
