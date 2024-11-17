@@ -80,6 +80,12 @@ Happy coding!
 
 **Instargram:** [Festino Offical Instargram](https://www.instagram.com/tuk_dev_tino/)
 
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/bdafd5de-5f1a-434b-bbee-95339a47c44b" alt="Project 2 Image 1" style="width: 32%; margin: 1%;">
+  <img src="https://github.com/user-attachments/assets/2a0e06c3-f26d-4400-bcdc-8e91fb7c1f44" alt="Project 2 Image 2" style="width: 32%; margin: 1%;">
+  <img src="https://github.com/user-attachments/assets/108fdcf0-eb09-4ae1-930f-d9be00df5d22" alt="Project 2 Image 3" style="width: 32%; margin: 1%;">
+</div>
+
 # Organizational Chart
 
 ## Overall Team
