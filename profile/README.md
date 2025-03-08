@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Dev-TINO&fontSize=70&animation=twinkling)
 
 <!--
 
@@ -96,13 +95,17 @@ Happy coding!
 | Kim sungjun <br/> [@kim-song-jun](https://github.com/kim-song-jun)  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/003ec78e-d60b-4bc8-885b-a0ad4019b0ee" alt="sungjun image" width="100" />   | Team Leader, <br> Full Stack Developer, <br> FrontEnd Mentor, <br> Bachelor of Computer Engineering | kinsongjun13@gmail.com | [Sungjun's Blog](https://kim-song-jun.github.io) | Play-Tino, <br> Mango-Dariy, <br> Daily-Lucky, <br>Festino |
 | Lee seungmin <br/> [@seeungmin](https://github.com/seeungmin) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/ae19927c-5ec5-406b-87f8-c18872ab90ce" alt="seungmin image" width="100" /> | Assistant Team Leader, <br> BackEnd Developer, <br> BackEnd Mentor, <br> Senior in college | lsmin476@gmail.com | [Seungmin's Blog](https://seeungmin.github.io/)           | Play-Tino, <br>Festino |
 
+
 ## Frontend Team
+
 
 | Name        | Photo                                                  | Role                                  | Email            | Blog                                 | Projects               |
 | :-----------: | ------------------------------------------------------ | ------------------------------------- | ---------------- | ------------------------------------ | ---------------------- |
 | Lee heeyeon <br/> [@heedong12](https://github.com/heedong12)  | <img src="https://github.com/user-attachments/assets/90b46dd2-9ffd-4ca0-a272-b4cafbce0008" alt="heeyeon image" width="100" /> | Frontend Developer, <br> Senior in college | dlgmldus3289@naver.com | [Heeyeon's Blog](https://heedonguri.tistory.com/) | Festino |
 | Kim minji <br/> [@min-minnn](https://github.com/min-minnn)  | <img src="https://github.com/DEV-TINO/.github/assets/90247223/10cec61d-5ffc-446a-82d7-438977de5e02" alt="minji image" width="100" /> | Frontend Developer, <br> Junior in college | alswlk0306@gmail.com | [Minji's Blog](https://alswlfjddl.tistory.com/) | Play-Tino, <br> Mango-Diary, <br>Festino |
 | Lim jeongyun <br/> [@jzongyun](https://github.com/jzongyun) | <img src="https://github.com/DEV-TINO/.github/assets/90247223/bb945917-d472-47fb-8992-3dc83c188c9b" alt="jeongyun image" width="100" /> | Frontend Developer, <br> Junior in college | haryo_@naver.com  | [Jeongyun's Blog](https://hmyang.tistory.com)   | Play-Tino, <br> Mango-Diary, <br>Festino |
+| Jin hyochan <br/> [@hyochan02](https://github.com/hyochan02)  | <img src="https://github.com/user-attachments/assets/71bf64ff-7c8d-4441-a079-7ec45793bc0e" alt="hyochan image" width="100" /> | Frontend Developer, <br> Junior in college | hyochan02@gmail.com |  |  |
+| Choi seyeon <br/> [@seyeonnnn](https://github.com/seyeonnnn) | <img src="https://github.com/user-attachments/assets/1e94068d-dd3d-45d0-9ddb-71673e6aebd4" alt="jeongyun image" width="100" /> | Frontend Developer, <br> Junior in college | csycsi1002@naver.com  |  |  |
 
 
 ## Backend Team
